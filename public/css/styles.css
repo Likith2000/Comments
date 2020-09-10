@@ -1,0 +1,27 @@
+body {
+  background-color: #e0ece4;
+  color: #056674;
+}
+
+.heading {
+  font-family: "Kufam", cursive;
+  padding: 4%;
+  text-align: center;
+}
+
+.btn {
+  background-color: #056674;
+  color: #66bfbf;
+}
+
+.align {
+  text-align: left;
+}
+
+.card-body {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.p {
+  font-size: x-large;
+}
